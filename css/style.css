@@ -51,3 +51,11 @@ button:hover {
 /* #grid-divs section {
     
 } */
+.wrapper {
+    background-color: #f00;
+}
+.wrapperDivs {
+    width: 100vw;
+    height: 100vh;
+    overflow: scroll;
+}
